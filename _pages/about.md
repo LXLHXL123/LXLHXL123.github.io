@@ -19,7 +19,7 @@ Education
 
 Experience
 ======
-* 09/2019 - present  &emsp;&emsp; Visiting PhD, Harvard Medical School 
+* 09/2019 - present  &emsp;&emsp; Visiting PhD, Harvard Medical School     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. Eli Peli
 
 Getting started
