@@ -17,7 +17,8 @@ Education
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/), Shanghai, China      
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. [Xiaokang Yang](https://scholar.google.ca/citations?user=yDEavdMAAAAJ&hl=en) and Prof. [Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ)
 * 09/2013 - 06/2017 &emsp;&emsp; **B.E.**, Information and Communication Engineering      
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China      
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/),      
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Chengdu, China      
 
 Experience
 ======
