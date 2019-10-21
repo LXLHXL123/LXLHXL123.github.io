@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!--{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 * **Huiyu Duan**, Xiongkuo Min, Yi Fang, Lei Fan, Xiaokang Yang, and Guangtao Zhai, “Visual Attention Analysis and Prediction on Human Faces for Children with Autism Spectrum Disorder,” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), vol. 15, no. 3s, pp. 90, Oct. 2019.[[pdf](http://duanhuiyu.github.io/files/2019TOMM_duan.pdf)]
 * **Huiyu Duan**, Guangtao Zhai, Xiongkuo Min, Yucheng Zhu, Yi Fang, and Xiaokang Yang, “Perceptual Quality Assessment of Omnidirectional Images: Subjective Experiment and Objective Model Evaluation,” ZTE COMMUNICATIONS, vol. 17, no. 1, Mar. 2019.[[pdf](http://duanhuiyu.github.io/files/2019ZTE_published.pdf)]
