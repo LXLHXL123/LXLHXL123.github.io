@@ -13,14 +13,14 @@ I'm currently a PhD candidate at [Shanghai Jiao Tong University (SJTU)](http://e
 
 Education
 ======
-*09/2017 - present &emsp;&emsp; **PhD candidate**, Information and Communication Engineering     
+* 09/2017 - present &emsp;&emsp; **PhD candidate**, Information and Communication Engineering     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Shanghai Jiao Tong University, Shanghai, China    
-    Advised by Prof. [Xiaokang Yang](https://scholar.google.ca/citations?user=yDEavdMAAAAJ&hl=en) and Prof. [Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. [Xiaokang Yang](https://scholar.google.ca/citations?user=yDEavdMAAAAJ&hl=en) and Prof. [Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ)
 
 Experience
 ======
-* 09/2019 - present visiting PhD candidate, Harvard Medical School 
-Advised by Prof. Xiaokang Yang and Prof. Guangtao Zhai
+* 09/2019 - present  &emsp;&emsp; Visiting PhD, Harvard Medical School 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. Eli Peli
 
 Getting started
 ======
