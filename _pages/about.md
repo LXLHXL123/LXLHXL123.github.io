@@ -14,7 +14,7 @@ I'm currently a PhD candidate at [Shanghai Jiao Tong University (SJTU)](http://e
 Education
 ======
 * 09/2017 - present &emsp;&emsp; **PhD candidate**, Information and Communication Engineering     
-    Shanghai Jiao Tong University, Shanghai, China    
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Shanghai Jiao Tong University, Shanghai, China    
     Advised by Prof. [Xiaokang Yang](https://scholar.google.ca/citations?user=yDEavdMAAAAJ&hl=en) and Prof. [Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ)
 
 Experience
