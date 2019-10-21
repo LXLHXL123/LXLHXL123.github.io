@@ -19,7 +19,8 @@ Education
 
 Experience
 ======
-* 09/2019 - present  &emsp;&emsp; Visiting PhD, Harvard Medical School     
+* 09/2019 - present  &emsp;&emsp; Visiting PhD, Schepens Eye Research Institute      
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Harvard Medical School, Boston, USA
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. Eli Peli
 
 Getting started
