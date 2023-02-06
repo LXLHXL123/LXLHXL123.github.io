@@ -28,6 +28,8 @@ Experience
 
 Publications
 ======
+## 2022
+
 * **Huiyu Duan**, Xiongkuo Min, Yi Fang, Lei Fan, Xiaokang Yang, and Guangtao Zhai, “Visual Attention Analysis and Prediction on Human Faces for Children with Autism Spectrum Disorder,” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), vol. 15, no. 3s, pp. 90, Oct. 2019.[[pdf](http://duanhuiyu.github.io/files/2019TOMM_duan.pdf)]
 * **Huiyu Duan**, Guangtao Zhai, Xiongkuo Min, Yucheng Zhu, Yi Fang, and Xiaokang Yang, “Perceptual Quality Assessment of Omnidirectional Images: Subjective Experiment and Objective Model Evaluation,” ZTE COMMUNICATIONS, vol. 17, no. 1, Mar. 2019.[[pdf](http://duanhuiyu.github.io/files/2019ZTE_published.pdf)]
 * **Huiyu Duan**, Guangtao Zhai, Xiongkuo Min, Zhaohui Che, Yi Fang, Xiaokang Yang, Jesus Gutierrez, and Patrick Le Callet, “A Dataset of Eye Movements for the Children with Autism Spectrum Disorder,” in Proceedings of ACM Multimedia Systems Conference (ACM MMSys), 2019.[[pdf](http://duanhuiyu.github.io/files/2019ACMMMSys.pdf)][[database](http://doi.org/10.5281/zenodo.2647418)]
