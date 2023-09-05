@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD candidate at [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I received my B.E. degree from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China, in 2017.
+I'm currently a PhD candidate at [Jiangxi University of Finance and Economics (JUFE)](http://www.jxufe.edu.cn/). I received my B.E. degree from JUFE, Nanchang, China, in 2017.
 
 
 Education
