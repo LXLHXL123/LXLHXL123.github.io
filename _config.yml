@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huiyu Duan"
+title                    : "Xuelin Liu"
 title_separator          : "-"
-name                     : &name "Huiyu Duan"
-description              : &description "Ph.D. candidate at Shanghai Jiao Tong University"
-url                      : https://DuanHuiyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xuelin Liu"
+description              : &description "Ph.D. candidate at Jiangxi University of Finance and Economics"
+url                      : https://Liuxuelin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DuanHuiyu.github.io"
+repository               : "Liuxuelin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huiyu Duan"
+  name             : "Xuelin Liu"
   avatar           : "../images/me.jpg"
-  bio              : "PhD candidate at Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "PhD candidate at Jiangxi University of Finance and Economics"
+  location         : "Nanchang, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "DuanHuiyu"
+  github           : "Liuxuelin"
   google_plus      :
   keybase          :
   instagram        :
