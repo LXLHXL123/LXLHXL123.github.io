@@ -17,7 +17,7 @@ Education
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [JUFE](http://www.jxufe.edu.cn/), Nanchang, China      
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. [Yuming Fang](https://scholar.google.com.sg/citations?user=_Tu-eHkAAAAJ&hl=en) and Prof. [Zheng Wan](http://sim.jxufe.edu.cn/down/show-1558.aspx?id=14)
 * 09/2017 - 06/2020 &emsp;&emsp; **M.S.**, School of Information Management  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [JUFE](http://www.jxufe.edu.cn/), Nanchang, China 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [JUFE](http://www.jxufe.edu.cn/), Nanchang, China     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. [Yuming Fang](https://scholar.google.com.sg/citations?user=_Tu-eHkAAAAJ&hl=en) and Prof. [Kede Ma](https://kedema.org/)
 * 09/2013 - 06/2017 &emsp;&emsp; **B.E.**, School of Information Management  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [JUFE](http://www.jxufe.edu.cn/),      
