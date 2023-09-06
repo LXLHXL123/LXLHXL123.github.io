@@ -13,12 +13,15 @@ I'm currently a PhD candidate at [Jiangxi University of Finance and Economics (J
 
 Education
 ======
-* 09/2017 - present &emsp;&emsp; **PhD candidate**, Information and Communication Engineering      
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/), Shanghai, China      
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. [Xiaokang Yang](https://scholar.google.ca/citations?user=yDEavdMAAAAJ&hl=en) and Prof. [Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ)
-* 09/2013 - 06/2017 &emsp;&emsp; **B.E.**, Information and Communication Engineering      
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/),      
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Chengdu, China      
+* 09/2021 - present &emsp;&emsp; **PhD candidate**, School of Information Management  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [JUFE](http://www.jxufe.edu.cn/), Nanchang, China      
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. [Yuming Fang](https://scholar.google.com.sg/citations?user=_Tu-eHkAAAAJ&hl=en) and Prof. [Zheng Wan](http://sim.jxufe.edu.cn/down/show-1558.aspx?id=14)
+* 09/2017 - 06/2020 &emsp;&emsp; **M.S.**, School of Information Management      
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [JUFE](http://www.jxufe.edu.cn/), Nanchang, China 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advised by Prof. [Yuming Fang](https://scholar.google.com.sg/citations?user=_Tu-eHkAAAAJ&hl=en) and Prof. [Kede Ma](https://kedema.org/)
+* 09/2013 - 06/2017 &emsp;&emsp; **B.E.**, School of Information Management      
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [JUFE](http://www.jxufe.edu.cn/),      
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Nanchang, China      
 
 Experience
 ======
