@@ -43,3 +43,12 @@ Publications
 * Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu. "Perceptual quality assessment of omnidirectional images," AAAI Conferenence on Artificial Intelligence (AAAI) (Poster), 2022. [pdf][project]
 * Dengxiang Wang, Jiebin Yan, **Xuelin Liu**, Yifan Zuo. "Evaluating the robustness of depth image super-resolution models," IEEE International Workshop on Multimedia Signal Processing (MMSP) (Poster), 2022. [pdf][project]
 * Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli. "Blind image quality assessment by learning from multiple annotators," IEEE International Conference on Image Processing (ICIP) (Oral), 2019. [pdf][project]
+
+Academic Services
+======
+* To be continued...
+
+Professional Activities
+======
+* Volunteer for the 24th IEEE International Conference on Image Processsing (ICIP) held at the China National Convention Center in Bejing, China, September, 2017.
+* Volunteer for the 11th IEEE International Conference on Vitrual Reality and Visualization (ICVRV) held in Nanchang, China, October, 2021.
