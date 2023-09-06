@@ -15,17 +15,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-* **Huiyu Duan**, Xiongkuo Min, Yi Fang, Lei Fan, Xiaokang Yang, and Guangtao Zhai, “Visual Attention Analysis and Prediction on Human Faces for Children with Autism Spectrum Disorder,” ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), vol. 15, no. 3s, pp. 90, Oct. 2019.      
-[[pdf](http://duanhuiyu.github.io/files/2019TOMM_duan.pdf)]
-* **Huiyu Duan**, Guangtao Zhai, Xiongkuo Min, Yucheng Zhu, Yi Fang, and Xiaokang Yang, “Perceptual Quality Assessment of Omnidirectional Images: Subjective Experiment and Objective Model Evaluation,” ZTE COMMUNICATIONS, vol. 17, no. 1, Mar. 2019.      
-[[pdf](http://duanhuiyu.github.io/files/2019ZTE_published.pdf)]
-* **Huiyu Duan**, Guangtao Zhai, Xiongkuo Min, Zhaohui Che, Yi Fang, Xiaokang Yang, Jes{\'u}s Guti{\'e}rrez, and Patrick Le Callet, “A Dataset of Eye Movements for the Children with Autism Spectrum Disorder,” in Proceedings of ACM Multimedia Systems Conference (ACM MMSys), 2019.      
-[[pdf](http://duanhuiyu.github.io/files/2019ACMMMSys.pdf)]
-* **Huiyu Duan**, Guangtao Zhai, Xiongkuo Min, Yi Fang, Zhaohui Che, Xiaokang Yang, and Ning Liu, “Learning to Predict where the Children with ASD Look,” in Proceedings of IEEE International Conference on Image Processing (ICIP), 2018.      
-[[pdf](http://duanhuiyu.github.io/files/2018ICIP.pdf)]
-* **Huiyu Duan**, Guangtao Zhai, Xiongkuo Min, Yucheng Zhu, Yi Fang, and Xiaokang Yang, “Perceptual quality assessment of omnidirectional images,” in Proceedings of IEEE International Symposium on Circuits and Systems (ISCAS), 2018.      
-[[pdf](http://duanhuiyu.github.io/files/2018ISCAS.pdf)]
-* **Huiyu Duan**, Guangtao Zhai, Xiongkuo Min, Yucheng Zhu, Wei Sun, and Xiaokang Yang, “Assessment of visually induced motion sickness in immersive videos,” in Proceedings of Paciﬁc Rim Conference on Multimedia (PCM), 2017.      
-[[pdf](http://duanhuiyu.github.io/files/2017PCM.pdf)]
-* **Huiyu Duan**, Guangtao Zhai, Xiaokang Yang, Duo Li, and Wenhan Zhu, “IVQAD 2017: An immersive video quality assessment database,” in Proceedings of IEEE International Conference on Systems, Signals and Image Processing (IWSSIP), 2017.      
-[[pdf](http://duanhuiyu.github.io/files/2017IWSSIP.pdf)]
+**Journal:**
+* **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Zhou Wang. "A quality-of-experience database for adaptive omnidirectional video streaming," IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2023. [pdf][database][project]
+* Jiebin Yan, Yuming Fang, **Xuelin Liu**, Yiru Yao, Xiangjie Sui. "A survey on recent adcances in video quality assessment," Chinese Journal of Computers (CJC), 2023.
+* Jiebin Yan, Yuming Fang, **Xuelin Liu**. "Survey on image quality assessment from the perspective of distortion," Journal of Image and Graphics (JIG), 2022.
+* Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang. "Progress in no-reference image quality assessment: A survey," Journal of Image and Graphics (JIG), 2021.
+* **Xuelin Liu**, Yuming Fang, Rengang Du, Yifan Zuo, Wenying Wen. "Blind quality assessment for tone-mapped images based on local and global features," Information Sciences (INS), 2020. [pdf][project]
+* Yuming Fang, Jiebin Yan, Jiheng Wang, **Xuelin Liu**, Guangtao Zhai, Patrick Le Callet. "Learning a no-reference quality predictor of stereoscopic images by visual binocular properties," IEEE Access, 2019. [pdf][project]
+* Yuming Fang, Jiebin Yan, Xuelin Liu, Jiheng Wang. "Stereoscopic image quality assessment by deep convolutional neural network," Journal of Visual Communication and Image Representation (JVCIR), 2019. [pdf][project]
+
+**Conference:**
+* Yuming Fang, Liping Huang, Jiebin Yan, **Xuelin Liu**, Yang Liu. "Perceptual quality assessment of omnidirectional images," AAAI Conferenence on Artificial Intelligence (AAAI) (Poster), 2022. [pdf][project]
+* Dengxiang Wang, Jiebin Yan, **Xuelin Liu**, Yifan Zuo. "Evaluating the robustness of depth image super-resolution models," IEEE International Workshop on Multimedia Signal Processing (MMSP) (Poster), 2022. [pdf][project]
+* Kede Ma, **Xuelin Liu**, Yuming Fang, Eero P. Simoncelli. "Blind image quality assessment by learning from multiple annotators," IEEE International Conference on Image Processing (ICIP) (Oral), 2019. [pdf][project]
