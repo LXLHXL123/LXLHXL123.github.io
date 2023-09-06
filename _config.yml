@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Xuelin Liu"
-  avatar           : "../images/me.jpg"
+  avatar           : "../images/person.jpg"
   bio              : "PhD candidate at Jiangxi University of Finance and Economics"
   location         : "Nanchang, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  huiyu_duan@outlook.com; huiyuduan@sjtu.edu.cn
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=fJNsU58AAAAJ&hl=zh-CN"
+  email            : xuelinliu-bill@foxmail.com; xuelinliu18702604350@gmail.com; lxl_jxufe@outlook.com
+  researchgate     : "https://www.researchgate.net/profile/Xuelin-Liu-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Liuxuelin"
+  github           : "https://github.com/LXLHXL123"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5380-8343"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  DBLP             : "https://dblp.uni-trier.de/pid/210/8987.html"
+  CSDN             : "https://blog.csdn.net/lxlhexl"
 
 
 # Reading Files
