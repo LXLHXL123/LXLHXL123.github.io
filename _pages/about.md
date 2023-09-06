@@ -31,7 +31,7 @@ Experience
 Publications
 ======
 **Journal:**
-* **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Zhou Wang. "A quality-of-experience database for adaptive omnidirectional video streaming," IEEE Journal of Selected Topics in Signal Processing (JSTSP)，2023. [pdf][database][project]
+* **Xuelin Liu**, Jiebin Yan, Zheng Wan, Yuming Fang, Zhou Wang. "A quality-of-experience database for adaptive omnidirectional video streaming," IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2023. [pdf][database][project]
 * Jiebin Yan, Yuming Fang, **Xuelin Liu**, Yiru Yao, Xiangjie Sui. "A survey on recent adcances in video quality assessment," Chinese Journal of Computers (CJC), 2023.
 * Jiebin Yan, Yuming Fang, **Xuelin Liu**. "Survey on image quality assessment from the perspective of distortion," Journal of Image and Graphics (JIG), 2022.
 * Yuming Fang, Xiangjie Sui, Jiebin Yan, **Xuelin Liu**, Liping Huang. "Progress in no-reference image quality assessment: A survey," Journal of Image and Graphics (JIG), 2021.
