@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD candidate at [Jiangxi University of Finance and Economics (JUFE)](http://www.jxufe.edu.cn/). I received my B.E. degree and M.S. from JUFE, Nanchang, China, in 2017 and 2020, respectively.
+I'm currently a PhD candidate at [Jiangxi University of Finance and Economics (JUFE)](http://www.jxufe.edu.cn/). I received my B.E. degree and M.S. from JUFE, Nanchang, China, in 2017 and 2020, respectively. My research interests include visual quality assessment, comptuer vision and multimedia communication.
 
 
 Education
